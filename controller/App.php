@@ -1,7 +1,7 @@
 <?php
 class AppController{
 	public function index(){
-		echo "Data Keuangan Pemerintah Daerah API v 1.0";
+		echo "API v 1.0";
 	}
 	public function tahun(){
 		$sql = "select tahun as kode, tahun as name from tahun";

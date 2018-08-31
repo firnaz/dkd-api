@@ -1,2 +1,2 @@
 # dkd-api
-API with Ephipany
+Sample API with Ephipany
